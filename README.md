@@ -5,4 +5,4 @@ Advanced CSS Challenge: Professional Portfolio
 
 URL of the deployed application: https://hieung88.github.io/portfolio/
 
-/screenshot.png
+![Portfolio Screenshot](/screenshot.png?raw=true)
