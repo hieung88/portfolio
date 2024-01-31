@@ -146,7 +146,7 @@ header nav ul li a:hover {
     background-image: url("../images/lonestardiver.png");
 }
 
-.project2 {
+.project3 {
     grid-column: 1/3;
     grid-row: span 2;
     background-image: url("../images/flickfinder.png");
